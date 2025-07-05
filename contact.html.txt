@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact</title>
+</head>
+<body>
+  <h1>Contact</h1>
+
+  <img src="https://via.placeholder.com/200x100" alt="Contact Image">
+
+  <p>Get in touch with us below:</p>
+
+  <ul>
+    <li>Email: <a href="mailto:example@example.com">example@example.com</a></li>
+    <li>Phone: +123 456 7890</li>
+    <li>Website: <a href="https://example.com" target="_blank">Our Portfolio</a></li>
+  </ul>
+
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="about.html">About</a> |
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <br><br>
+
+  <button onclick="window.location.href='index.html'">Back to Home</button>
+</body>
+</html>
